@@ -1,6 +1,7 @@
 ---
 name: nuxt-cloudinary
 description: How to use Nuxt Cloudinary for optimized images, video playing, and uploading in Nuxt 3. Make sure to use this skill whenever the user mentions images, video players, file uploads, image transformations (like blur, crop, generative fill, background removal), Cloudinary, or media optimization in a Nuxt context, even if they don't explicitly ask for 'Cloudinary'.
+tags: [nuxt, cloudinary, media, images, video, upload, optimisation]
 ---
 
 # Nuxt Cloudinary Skill
