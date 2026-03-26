@@ -5,11 +5,8 @@ A lightweight skills.sh integration for Nuxt 3,4 Cloudinary usage guidance.
 ## What this repo contains
 - `nuxt-cloudinary/SKILL.md`: core skill doc for `skills.sh`, with full onboarding and examples.
 
-## GitHub description (repo summary)
-Nuxt Cloudinary helper skill for skills.sh: image/video optimization, upload widget, transform syntax and best practices.
-
 ## Quick start
-1. Install module in Nuxt 3:
+1. Install module in Nuxt 3, 4:
    ```bash
    npm install @nuxtjs/cloudinary
    ```
