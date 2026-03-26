@@ -1,6 +1,6 @@
 # Nuxt Cloudinary Skill
 
-A lightweight skills.sh integration for Nuxt 3 Cloudinary usage guidance.
+A lightweight skills.sh integration for Nuxt 3,4 Cloudinary usage guidance.
 
 ## What this repo contains
 - `nuxt-cloudinary/SKILL.md`: core skill doc for `skills.sh`, with full onboarding and examples.
@@ -29,7 +29,7 @@ Nuxt Cloudinary helper skill for skills.sh: image/video optimization, upload wid
    - `<CldUploadWidget />`
 
 ## What this skill covers
-- image & video components
+- image & video components 
 - URL composables (`useCldImageUrl`, `useCldVideoUrl`)
 - signed/unsigned uploads
 - transformations, effects, and layout shift prevention
